@@ -1,12 +1,12 @@
-### Hi 👋,I'm Yusuf
+<h1 style="text-align:center">Hi 👋,I'm Yusuf</h1>
 
 
 - 🌱 I’m currently learning ReactJs
 - 💬 Ask me about HTML,CSS;Javascript
 - 📫 How to reach me: ysfinaltekin@gmail.com
 
-
-
+<h3>Connect with me</h3>
+<a href="https://www.linkedin.com/in/yusuf-inaltekin-55884321a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emrekaraa" height="30" width="40" /></a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
